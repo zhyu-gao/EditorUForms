@@ -1,0 +1,9 @@
+/Volumes/document/unity_proj/classlibrary/editoruiforms/editoruiforms/bin/Debug/editoruiforms.dll
+/Volumes/document/unity_proj/classlibrary/editoruiforms/editoruiforms/bin/Debug/editoruiforms.pdb
+/Volumes/document/unity_proj/classlibrary/editoruiforms/editoruiforms/bin/Debug/UnityEditor.dll
+/Volumes/document/unity_proj/classlibrary/editoruiforms/editoruiforms/bin/Debug/UnityEngine.dll
+/Volumes/document/unity_proj/classlibrary/editoruiforms/editoruiforms/obj/Debug/editoruiforms.csprojAssemblyReference.cache
+/Volumes/document/unity_proj/classlibrary/editoruiforms/editoruiforms/obj/Debug/editoruiforms.csproj.CoreCompileInputs.cache
+/Volumes/document/unity_proj/classlibrary/editoruiforms/editoruiforms/obj/Debug/editoruiforms.csproj.CopyComplete
+/Volumes/document/unity_proj/classlibrary/editoruiforms/editoruiforms/obj/Debug/editoruiforms.dll
+/Volumes/document/unity_proj/classlibrary/editoruiforms/editoruiforms/obj/Debug/editoruiforms.pdb
